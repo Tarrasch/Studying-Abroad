@@ -14,10 +14,21 @@ GA Tech is divided into 2 semesters.
 
 ### Fall 2012 (16 weeks)
 
-[CS 7634][CS7634] - AI Storytell In Vir Wrld  
-[CS 7641][CS7641] - Machine Learning  
-[CS 6340][CS6340] - Software Analysis & Test  
+[CS 7634][CS7634] - AI Storytell In Vir Wrld
+
+ * An exploration of how artificial intelligence can enable us to use stories in virtual worlds for the purpose of entertaining, educatintg, and training human users.
+
+[CS 7641][CS7641] - Machine Learning
+
+ * Machine learning techniques and applications. Topics include foundational issues; inductive, analytical, numerical, and theoretical approaches; and real-world applications.
+
+[CS 6340][CS6340] - Software Analysis & Test
+
+ * Fundamental prinicples and advanced techniques for static and dynamic program analysis and software testing. Software reliability, resilience, and trustworthiness.
+
 [CS 7637][CS7637] - Knowledge-Based AI
+
+ * Structured knowledge representation; knowledge-based methods of reasoning and learning; problem-solving, modeling and design.
 
 *The course codes are clickable links*
 
@@ -31,9 +42,17 @@ Washington is divided into 3 quarters.
 
 ### Autumn 2012 (10 weeks) [Sep 26, Dec 14]
 
-[CSE 573][CSE573] - Artificial Intelligence I (4)  
-[CSE 527][CSE527] - Computational Biology (4)  
+[CSE 573][CSE573] - Artificial Intelligence I (4)
+
+ * Introduction to computational models of thought and construction of intelligent information systems. Topics include search algorithms, data dependencies and truth-maintenance systems, approaches to knowledge representation, automated deduction, reasoning under uncertainty, and machine learning.
+
+[CSE 527][CSE527] - Computational Biology (4)
+
+ * Introduces computational methods for understanding biological systems at the molecular level. Problem areas such as mapping and sequencing, sequence analysis, structure prediction, phylogenic inference, regulatory analysis. Techniques such as dynamic programming, Markov models, expectation-maximization, local search.
+
 [CSE 451][CSE451] - Introduction to Operating Systems (4)
+
+ * Principles of operating systems. Process management, memory management, auxiliary storage management, resource allocation. No credit to students who have completed 410 or E E 474.
 
 ### Winter 2013 & Spring 2013
 
