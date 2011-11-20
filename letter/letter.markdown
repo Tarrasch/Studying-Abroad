@@ -2,35 +2,27 @@
 % Arash Rouhani
 % 19-Nov-2011
 
-Jag går mitt tredje år på datateknik.
-I detta dokument berättar jag var och varför
-jag vill studera utomlands.
+Jag går mitt tredje år på datateknik och
+siktar på ett utbytesår i USA med start hösten 2012.
 
 ## Syfte och förväntningar
 
-Som student inom IT vet man att drömjobben finns i USA,
-det bästa sättet att få in en fot där är at visa initiativ
-redan under studietiden, jag förväntar mig
-
-... ser fram emot ...
+Som student inom IT vet man att drömjobben finns i USA.
+Det bästa sättet att få in en fot där är att visa initiativ
+redan under studietiden. Mina förväntingar är
+utbildning i toppklass och möjlighet att knyta kontakt
+med företag som besöker universiteten.
+Denna optimistiska förväntan har getts av reserapporterna.
 
 ## Studierna
 
-I dem båda tilltänkta universiteten vill jag efter första läsperioden
-påbörja mitt exjobb på universitet. Göra exjobbet i USA kommer
-vara mer givande för mig, eftersom man traditionellt alltid samarbetar
-aktivt med en proffesor på universitet. Min globaliserade profil
-kommer att sticka ut ännu mer ifall jag även gjort exjobbet i USA.
-
 ### Georgia Institute of Technology
 
-GA  Tech är mitt förstahandsval, det är
-i allra topp inom IT, det är ett viktigt plus i ens CV.
+Förstahandsvalet GA Tech ligger
+i topp inom IT. Det är eftertraktat när man sedan
+söker jobb bland företag.
 
-Jag kommer läsa 16 veckor under hösten, då har jag tänkt
-
-#### Fall 2012 (16 veckor)
-
+**Fall 2012 (16 veckor)**  
 [CS 7634][CS7634] - AI Storytell In Vir Wrld (3)  
 [CS 7641][CS7641] - Machine Learning (3)  
 [CS 6340][CS6340] - Software Analysis & Test (3)  
@@ -38,29 +30,41 @@ Jag kommer läsa 16 veckor under hösten, då har jag tänkt
 
 ### Washington University
 
-Washington ligger minst lika högt i rankingen.
-Trots det väljer jag Washington som andrahandsvalet.
+Washington ligger minst lika högt i rankingen, fast
+är mer inriktat på datorteknik än ren datavetenskap.
 
-#### Autumn 2012 (10 veckor) [Sep 26, Dec 14]
-
+**Autumn 2012 (10 veckor) [Sep 26, Dec 14]**  
 [CSE 573][CSE573] - Artificial Intelligence I (4)  
 [CSE 527][CSE527] - Computational Biology (4)  
 [CSE 451][CSE451] - Introduction to Operating Systems (4)
 
-### Kurs-motiveringar
+### Kurs-motiveringar och efter höst
+
+Aritificiell Intelligens vill jag läsa av två skäl.
+Främst mitt intresse av området, sedan att AI-kursen på
+Chalmers fått kritik av elever, även
+masterkoordinatorn intygar detta. De övriga kurserna
+har uppenbara motsvarigheter på Chalmers, jag har valt
+dem för att ämnena är intressanta.
+Jag har noggrant verifierat att kurserna verkligen går under
+hösten 2012.
+
+Chalmers mastersprogram MPALG som jag tänkt välja är liberal
+med kurstubudet och är därför är ovanstående kursval kompatibelt
+med MPALG.
+Masterskoordinatorn Peter Damaschke har godkänt min studieplan.
+
+I dem båda tilltänkta universiteten vill jag efter första läsperioden
+påbörja mitt exjobb på universitet. Göra exjobbet i USA kommer
+vara mer givande för mig, eftersom man traditionellt alltid samarbetar
+aktivt med en proffesor på universitet. Min globaliserade profil
+kommer att sticka ut mer ifall jag gjort exjobbet i USA.
+Jag är även öppen till att göra exjobbet under mitt femte
+år, utifall det inte skulle gå att göra det utomlands.
 
 ### Prioritetsordningen
 
-### Efter utbytesåret
-
-Mastersprogrammet MPALG är lyckligtvist väldigt liberal med kursutbudet.
-De kurser jag tänkt läsa utomlands har oftast mostvarighet i
-MPALG, man får läsa flera valbara kurser inom programmet.
-Kursvalet är alltså kompatibelt med MPALG
-
 ## Referenser
-
-Mina referenser känner mig bra som person snarare än student.
 
 Sofia Honsberg                                    Carl-Johan Nilsson
 ------------------------------    ----------------------------------
