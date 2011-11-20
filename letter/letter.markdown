@@ -9,67 +9,63 @@ siktar på ett utbytesår i USA med start hösten 2012.
 
 Som student inom IT vet man att drömjobben finns i USA.
 Det bästa sättet att få in en fot där är att visa initiativ
-redan under studietiden. Mina förväntingar är
+redan under studietiden. Mina förväntningar är en
 utbildning i toppklass och möjlighet att knyta kontakt
 med företag som besöker universiteten.
-Denna optimistiska förväntan har getts av reserapporterna.
+Denna optimistiska förväntan har getts av reserapporter
+och kontakt med äldre studenter.
 
 ## Studierna
 
-### Georgia Institute of Technology
+Jag har valt *Georgia Institute of Technology*
+och *Washington Univerisity* som första- respektive
+andrahandsval. Båda är tio i topp inom
+IT vilket är eftertraktat då man söker arbete.
 
-Förstahandsvalet GA Tech ligger
-i topp inom IT. Det är eftertraktat när man sedan
-söker jobb bland företag.
+GA Tech prioriteras före
+UW eftersom UW saknar rent datavetetenskapligt mastersprogram,
+av den anledningen är kurserna på GA Tech mer inom mitt intresseområde.
+Läsperioderna på GA Tech är på 16 veckor. På UW
+är de 10 veckor, alltså med 3 perioder per år. Om jag ska göra
+examensarbetet utomlands är GA Techs system till min fördel.
 
-**Fall 2012 (16 veckor)**  
-[CS 7634][CS7634] - AI Storytell In Vir Wrld (3)  
-[CS 7641][CS7641] - Machine Learning (3)  
-[CS 6340][CS6340] - Software Analysis & Test (3)  
-[CS 7637][CS7637] - Knowledge-Based AI (3)  
+### Kurser, motiveringar och examensarbete
 
-### Washington University
+**GA Tech** *Fall 2012*                           **Washington Univerisity** *Autumn 2012*
+-------------------------------------     ------------------------------------------------
+CS7634 - AI Storytell In Vir Wrld (3)               CSE573 - Artificial Intelligence I (4)
+CS7641 - Machine Learning (3)                           CSE527 - Computational Biology (4)
+CS6340 - Software Analysis & Test (3)       CSE451 - Introduction to Operating Systems (4)
+CS7637 - Knowledge-Based AI (3)
+-------------------------------------     ------------------------------------------------
 
-Washington ligger minst lika högt i rankingen, fast
-är mer inriktat på datorteknik än ren datavetenskap.
-
-**Autumn 2012 (10 veckor) [Sep 26, Dec 14]**  
-[CSE 573][CSE573] - Artificial Intelligence I (4)  
-[CSE 527][CSE527] - Computational Biology (4)  
-[CSE 451][CSE451] - Introduction to Operating Systems (4)
-
-### Kurs-motiveringar och efter höst
-
-Aritificiell Intelligens vill jag läsa av två skäl.
-Främst mitt intresse av området, sedan att AI-kursen på
-Chalmers fått kritik av elever, även
-masterkoordinatorn intygar detta. De övriga kurserna
-har uppenbara motsvarigheter på Chalmers, jag har valt
-dem för att ämnena är intressanta.
+Kurserna inom Aritificiell Intelligens valdes av två skäl,
+mitt intresse av området och att AI-kursen på
+Chalmers fått stor kritik i kursutvärderingen.
+De övriga kurserna
+har motsvarigheter på Chalmers och är inom mitt intresseområde.
 Jag har noggrant verifierat att kurserna verkligen går under
 hösten 2012.
 
-Chalmers mastersprogram MPALG som jag tänkt välja är liberal
-med kurstubudet och är därför är ovanstående kursval kompatibelt
-med MPALG.
-Masterskoordinatorn Peter Damaschke har godkänt min studieplan.
+Chalmers masterprogram MPALG som jag tänkt läsa har en liberal
+ubildningsplan, därför är ovanstående kursval kompatibelt med MPALG.
+Masterskoordinatorn *Peter Damaschke* har godkänt hela min studieplan.
 
-I dem båda tilltänkta universiteten vill jag efter första läsperioden
-påbörja mitt exjobb på universitet. Göra exjobbet i USA kommer
-vara mer givande för mig, eftersom man traditionellt alltid samarbetar
-aktivt med en proffesor på universitet. Min globaliserade profil
-kommer att sticka ut mer ifall jag gjort exjobbet i USA.
-Jag är även öppen till att göra exjobbet under mitt femte
-år, utifall det inte skulle gå att göra det utomlands.
-
-### Prioritetsordningen
+På båda universiteten vill jag efter första läsperioden
+påbörja mitt exjobb på universitetet. Ett exjobb i USA har större
+inverkan då man aktivt samarbetar med en proffesor på universitetet,
+min globaliserade profil kommer då att sticka ut mer.
+Enligt flertalet källor (vänner, masterskoordinator etc.)
+är det möjligt att göra exjobbet utomlands,
+men utifall det inte är möjligt kan jag läsa kurser som
+vanligt vårterminen 2013.
 
 ## Referenser
 
-Sofia Honsberg                                    Carl-Johan Nilsson
+**Sofia Honsberg**                            **Carl-Johan Nilsson**
 ------------------------------    ----------------------------------
 Studievägledare Datateknik        Ordförande Göteborgs Shogisällskap
-031 772 15 53                                            0706-581558
+031-772 15 53                                            0706-581558
 sofia.honsberg@chalmers.se               carljohan.nilsson@telia.com
 ------------------------------    ----------------------------------
 
@@ -79,9 +75,7 @@ Arash Rouhani
 901117-1213  
 CID: rarash  
 email: rarash@student.chalmers.se  
-  
-Omgången 464:22  
-412 80 Göteborg
+adress: Omgången 464:22, 412 80 Göteborg
 
 
 [CSE573]:http://www.cs.washington.edu/education/courses/cse573/
