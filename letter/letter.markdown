@@ -1,9 +1,7 @@
-% Motivationsbrev för ubytesstudier
-% Arash Rouhani
-% 19-Nov-2011
-
-Jag går mitt tredje år på datateknik och
+# Motivationsbrev för utbytesstudier
+Mitt namn är Arash Rouhani och jag
 siktar på ett utbytesår i USA med start hösten 2012.
+Jag går mitt tredje år på datateknik.
 
 ## Syfte och förväntningar
 
@@ -18,12 +16,12 @@ och kontakt med äldre studenter.
 ## Studierna
 
 Jag har valt *Georgia Institute of Technology*
-och *Washington Univerisity* som första- respektive
+och *Washington University* som första- respektive
 andrahandsval. Båda är tio i topp inom
 IT vilket är eftertraktat då man söker arbete.
 
 GA Tech prioriteras före
-UW eftersom UW saknar rent datavetetenskapligt mastersprogram,
+UW eftersom UW saknar ett rent datavetetenskapligt mastersprogram,
 av den anledningen är kurserna på GA Tech mer inom mitt intresseområde.
 Läsperioderna på GA Tech är på 16 veckor. På UW
 är de 10 veckor, alltså med 3 perioder per år. Om jag ska göra
@@ -54,7 +52,7 @@ Masterskoordinatorn *Peter Damaschke* har godkänt hela min studieplan.
 På båda universiteten vill jag efter första läsperioden
 påbörja mitt exjobb på universitetet. Ett exjobb i USA har större
 inverkan då man aktivt samarbetar med en proffesor på universitetet,
-min globaliserade profil kommer då att sticka ut mer.
+min internationella profil kommer då att sticka ut mer.
 Enligt flertalet källor (vänner, masterskoordinator etc.)
 är det möjligt att göra exjobbet utomlands,
 men utifall det inte är möjligt kan jag läsa kurser som
@@ -69,20 +67,32 @@ Studievägledare Datateknik        Ordförande Göteborgs Shogisällskap
 sofia.honsberg@chalmers.se               carljohan.nilsson@telia.com
 ------------------------------    ----------------------------------
 
-## Kontaktuppgifter
+## Om mig
+
+På chalmers engagerar jag mig i föreningar såsom robotföreningen
+och datateknologsektionens webbredaktion.
+Tillsammans med min studiekamrat deltog jag
+i Robot-EM i Wien 2010.
+Utanför chalmers är jag med och ideelt arrangerar svenska
+programmeringsolympiaden för gymnasiet. Då arbetar
+jag inte bara med tävlingens uppgifter, utan även planerar och bokar
+utlandsresor för lagtävlingar, på tävlingarna reser jag själv med
+som ansvarig lagledare.
+
+Boendes i en studentlägenhet med delat kök har jag kommit i
+nära relation med grannar från
+flertalet olika länder, nämnvärd är Tim från USA.
+Under hans utbytesår i Sverige talades vi vid vardagligen,
+Tim berättade mycket om landets geografi, skolsystem,
+levnadskostnader, städer, delstater och annat.
+
+### Kontaktuppgifter
 
 Arash Rouhani  
 901117-1213  
+mobil: 076-2323775  
 CID: rarash  
 email: rarash@student.chalmers.se  
-adress: Omgången 464:22, 412 80 Göteborg
-
-
-[CSE573]:http://www.cs.washington.edu/education/courses/cse573/
-[CSE527]:http://www.cs.washington.edu/education/courses/cse527/
-[CSE451]:http://www.cs.washington.edu/education/courses/cse451/
-
-[CS7634]:https://oscar.gatech.edu/pls/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201108&subj_code_in=CS&crse_numb_in=7634
-[CS7641]:https://oscar.gatech.edu/pls/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201108&subj_code_in=CS&crse_numb_in=7641
-[CS6340]:https://oscar.gatech.edu/pls/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201108&subj_code_in=CS&crse_numb_in=6340
-[CS7637]:https://oscar.gatech.edu/pls/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201108&subj_code_in=CS&crse_numb_in=7637
+  
+Omgången 464:22  
+412 80 Göteborg
