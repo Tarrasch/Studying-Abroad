@@ -1,7 +1,7 @@
 # Motivationsbrev för utbytesstudier
 Mitt namn är Arash Rouhani och jag
 siktar på ett utbytesår i USA med start hösten 2012.
-Jag går mitt tredje år på datateknik.
+Jag går tredje året på civilingenjörsprogrammet i datateknik.
 
 ## Syfte och förväntningar
 
@@ -51,12 +51,31 @@ Masterskoordinatorn *Peter Damaschke* har godkänt hela min studieplan.
 
 På båda universiteten vill jag efter första läsperioden
 påbörja mitt exjobb på universitetet. Ett exjobb i USA har större
-inverkan då man aktivt samarbetar med en proffesor på universitetet,
-min internationella profil kommer då att sticka ut mer.
+tyngd och är mer givande, då man aktivt samarbetar med en professor på universitetet.
+Min internationella profil kommer då att sticka ut mer.
 Enligt flertalet källor (vänner, masterskoordinator etc.)
 är det möjligt att göra exjobbet utomlands,
 men utifall det inte är möjligt kan jag läsa kurser som
 vanligt vårterminen 2013.
+
+## Om mig
+
+På Chalmers engagerar jag mig i föreningar såsom robotföreningen
+och datateknologsektionens webbredaktion.
+Tillsammans med min studiekamrat deltog jag
+i Robot-EM i Wien 2010.
+Utanför Chalmers är jag med och ideelt arrangerar svenska
+programmeringsolympiaden för gymnasiet. Jag arbetar
+inte bara med tävlingens uppgifter, utan planerar och bokar även
+utlandsresor för lagtävlingar, på tävlingarna reser jag själv med
+som ansvarig lagledare.
+
+Då jag bor i en studentlägenhet med delat kök har jag format
+nära relationer med grannar från
+flertalet olika länder, särskilt nämnvärd är Tim från USA.
+Under hans utbytesår i Sverige talades vi vid vardagligen,
+Tim berättade mycket om landets geografi, skolsystem,
+levnadskostnader, städer, delstater och annat.
 
 ## Referenser
 
@@ -67,26 +86,7 @@ Studievägledare Datateknik        Ordförande Göteborgs Shogisällskap
 sofia.honsberg@chalmers.se               carljohan.nilsson@telia.com
 ------------------------------    ----------------------------------
 
-## Om mig
-
-På chalmers engagerar jag mig i föreningar såsom robotföreningen
-och datateknologsektionens webbredaktion.
-Tillsammans med min studiekamrat deltog jag
-i Robot-EM i Wien 2010.
-Utanför chalmers är jag med och ideelt arrangerar svenska
-programmeringsolympiaden för gymnasiet. Då arbetar
-jag inte bara med tävlingens uppgifter, utan även planerar och bokar
-utlandsresor för lagtävlingar, på tävlingarna reser jag själv med
-som ansvarig lagledare.
-
-Boendes i en studentlägenhet med delat kök har jag kommit i
-nära relation med grannar från
-flertalet olika länder, nämnvärd är Tim från USA.
-Under hans utbytesår i Sverige talades vi vid vardagligen,
-Tim berättade mycket om landets geografi, skolsystem,
-levnadskostnader, städer, delstater och annat.
-
-### Kontaktuppgifter
+## Kontaktuppgifter
 
 Arash Rouhani  
 901117-1213  
